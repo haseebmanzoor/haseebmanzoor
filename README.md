@@ -15,15 +15,19 @@
 
 ### 🚀 About Me
 
-```ts
-const haseeb = {
-  role: "Senior Full-Stack Engineer",
-  location: "Lahore, Pakistan 🌍 (remote-friendly)",
-  experience: "5+ years",
-  focus: ["Web apps", "SaaS", "Backend & APIs", "AI/LLM integration"],
-  currentlyBuilding: "Scalable products end to end, from schema to deployment",
-  approach: "Clean PRs, tested critical paths, maintainable code",
-};
+```bash
+haseeb@dev:~$ whoami
+> Senior Full-Stack Engineer · 5+ years  🌍
+
+haseeb@dev:~$ cat stack.txt
+> React · Next.js · TypeScript · Node · PostgreSQL · AWS
+
+haseeb@dev:~$ ./current-focus
+> Shipping scalable SaaS end to end — schema to deploy
+> Integrating AI/LLM where it actually earns its place
+
+haseeb@dev:~$ git log --oneline
+> 1M+ downloads shipped · clean PRs · tested paths · no drama
 ```
 
 I'm a full-stack engineer with a frontend-leaning background who has expanded
